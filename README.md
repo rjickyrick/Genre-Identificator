@@ -28,7 +28,7 @@ duration, and time_signature .
 * Text features: For each song, we provide a list of tags representing the words that appeared in
 the lyrics of the song and are human annotated (such as ‘dance’, ‘love’, or ‘never).
 * Audio features: We provide 148 pre-computed audio features that were pre-extracted from the
-30 or 60 second snippets of each track, and capture timbre, chroma, and ‘Mel Frequency Cepstral Coefficients’ (MFCC) aspects of the audio. Each feature is continuous and the values are not interpretable.
+30 or 60 second snippets of each track, and capture timbre, chroma, and ‘Mel Frequency Cepstral Coefficients’ (MFCC) aspects of the audio. Each feature is continuous and the values are not interpretable.
 Each song is labelled with its genre, i.e., with a single label from one of 8 possible genre labels:
 ‘Soul and Reggae’, ‘Pop’, ’Punk’, ‘ Jazz and Blues’, ‘Dance and Electronica’, ‘Folk’, ‘Classic
 Pop and Rock’, ‘Metal’
